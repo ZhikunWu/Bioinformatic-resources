@@ -4,6 +4,11 @@
 
 * [GenomeNet](http://www.genome.jp/): integrated database 
 * [KEGG](http://www.genome.jp/kegg/): Kyoto Encyclopedia of Genes and Genomes
+* [KOBAS](http://kobas.cbi.pku.edu.cn/index.php)
+
+
+## database
+* [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases): A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants.
 
 
 ## Tool resources

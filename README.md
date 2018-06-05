@@ -19,7 +19,7 @@
 * [search code](https://searchcode.com/)
 * [omictools](https://omictools.com/)
 * [anaconda cloud](https://anaconda.org)
-
+* [Gene Regulation Info](http://generegulation.info/index.php/dna-protein-binding): Protein-DNA binding: data, tools & models
 
 ## Statistics
 

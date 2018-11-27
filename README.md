@@ -6,6 +6,7 @@
 * [KEGG](http://www.genome.jp/kegg/): Kyoto Encyclopedia of Genes and Genomes
 * [KOBAS](http://kobas.cbi.pku.edu.cn/index.php)
 * [InterPro](https://www.ebi.ac.uk/interpro/download.html)
+* [ENCODE](https://www.encodeproject.org/): ENCODE
 
 ## database
 * [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases): A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants.
@@ -32,4 +33,11 @@
 * [Biostack](http://www.biostack.org/)
 * [chenlianfu](http://www.chenlianfu.com/)
 
+## Tutorials
+* [Harvard FAS Tutorials](https://informatics.fas.harvard.edu/category/tutorials.html): Harvard FAS Tutorials and Training
+* [ENCODE ATAC-seq](https://www.encodeproject.org/search/?type=Pipeline&assay_term_names=ATAC-seq): ATAC-seq pipeline
+
+
+## Labs
+* [Trapnell Lab](http://cole-trapnell-lab.github.io/): aim to identify genes that control cellular transitions, primarily using single-cell genomics
 

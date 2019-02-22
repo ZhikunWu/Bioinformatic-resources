@@ -1,0 +1,21 @@
+## Omictools
+
+* [Epigenomics](https://omictools.com/epigenomics-category)
+* [Genomics](https://omictools.com/genomics2-category)
+* [Transcriptomics](https://omictools.com/transcriptomics-category)
+* [Proteomics](https://omictools.com/proteomics-category)
+* [Metabolomics](https://omictools.com/metabolomics-category)
+* [Phenomics](https://omictools.com/phenomics-category)
+* [Whole genome sequencing (WGS)](https://omictools.com/whole-genome-resequencing-category)
+* [Whole-exome-sequencing](https://omictools.com/whole-exome-sequencing-category)
+* [De-novo-genome-sequencing](https://omictools.com/de-novo-genome-sequencing-category)
+* [Genome annotation](https://omictools.com/genome-annotation2-category)
+* [16S rRNA gene](https://omictools.com/binning-16s-datasets-category)
+* [Shotgun metagenomic sequencing](https://omictools.com/metagenomics-category)
+* [Amplicon sequencing](https://omictools.com/amplicon-sequencing-category)
+* [Repertoire sequencing (Rep-seq)](https://omictools.com/rep-seq-category)
+* [Sanger sequencing](https://omictools.com/sanger-sequencing-category)
+* [DNA sequence databases](https://omictools.com/dna-sequence-databases-category)
+* [Optical mapping](https://omictools.com/optical-mapping-category)
+* [SNP array](https://omictools.com/snp-array-category)
+

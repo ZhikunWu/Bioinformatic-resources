@@ -19,3 +19,7 @@
 
 * [bac-ngs-book](https://github.com/indexofire/bac-ngs-book): 病原微生物高通量测序数据分析笔记
 
+## github
+* [Zhang2019NBT](https://github.com/YongxinLiu/Zhang2019NBT)
+* [Microbiota](https://github.com/microbiota)
+

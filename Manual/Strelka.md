@@ -411,3 +411,32 @@ $ /home/wuzhikun/Project/WGSSomatic/strelka/runWorkflow.py --mode=local --jobs=2
 [2019-05-31T03:04:09.140175Z] [cu04] [15765_1] [StrelkaSomaticWorkflow] Initiating Strelka somatic workflow version: 2.9.10
 
 ```
+
+
+
+output file:
+
+```
+drwxrwxr-x 1 4.0K May 31 11:00 results
+-rwxr-xr-x 1 7.9K May 31 11:00 runWorkflow.py
+-rw-rw-r-- 1 3.9K May 31 11:00 runWorkflow.py.config.pickle
+-rw-rw-r-- 1    0 May 31 11:03 workflow.error.log.txt
+-rw-rw-r-- 1    2 May 31 12:03 workflow.exitcode.txt
+-rw-rw-r-- 1    0 May 31 11:03 workflow.warning.log.txt
+drwxrwxr-x 1 4.0K May 31 12:03 workspace
+
+```
+
+tree of results
+```
+$ tree strelka/results/
+strelka/results/
+├── stats
+│   ├── runStats.tsv
+│   └── runStats.xml
+└── variants
+    ├── somatic.indels.vcf.gz
+    ├── somatic.indels.vcf.gz.tbi
+    ├── somatic.snvs.vcf.gz
+    └── somatic.snvs.vcf.gz.tbi
+```

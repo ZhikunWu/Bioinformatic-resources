@@ -1,0 +1,70 @@
+
+## [rHAT](https://github.com/dfguan/rHAT)
+
+### index
+```
+$ rHAT-indexer
+
+Program:   rHAT-indexer
+Version:   0.1.2
+Contact:   <dfguan@hit.edu.cn>
+
+Usage:     rHAT-indexer [Options] <HashIndexDir> <Reference>
+
+<HashIndexDir>         The directory storing RHT index
+<Reference>            Sequence of reference genome, in FASTA format
+
+Options:   -k, --kmer-size        <int>           the size of the k-mers extracted from reference genome for indexing [13]
+           -h, --help                             help
+
+```
+
+
+```
+$ rHAT-indexer -k  13  /home/wuzhikun/database/genome/GRCh38/rHAT  Homo_sapiens.GRCh38.dna.primary_assembly_chr1.fa
+[INFO] 2019-03-21T17:59:27 rHAT-indexer started
+[INFO] 2019-03-21T18:01:05 rHAT-indexer ended
+
+```
+
+output file
+
+```
+-rw-rw-r-- 1 1.1G Mar 21 18:01 hash
+```
+
+### aligner
+```
+$ rHAT-aligner
+
+Program:   rHAT-aligner
+Version:   0.1.2
+Contact:   <dfguan@hit.edu.cn>
+
+Usage:     rHAT-aligner [Options] <HashIndexDir> <ReadFile> <Reference>
+
+<HashIndexDir>         The directory storing RHT index
+<ReadFile>             Reads file, in FASTQ/FASTA format
+<Reference>            Sequence of reference genome, in FASTA format
+
+Options:   -w, --window-hits      <int>           the max allowed number of windows hitting by a k-mer [1000]
+           -m, --candidates       <int>           the number of candidates for extension [5]
+           -k, --kmer-size        <int>           the size of the k-mers for generating short token matches [13]
+           -a, --match            <int>           score of match for the alignments in extension phase [2]
+           -b, --mismatch         <int>           mismatch penalty for the alignments in extension phase [5]
+           -q, --gap-open         <int>           gap open penalty for the alignments in extension phase [2]
+           -r, --gap-extension    <int>           gap extension penalty for the alignments in extension phase [1]
+           -l, --local-kmer       <int>           the minimum length of the local matches used for SDP [11]
+           -t, --threads          <int>           number of threads [1]
+           -h, --help                             help
+
+
+```
+
+
+```
+$ /home/wuzhikun/anaconda3/envs/NanoSV/bin/rHAT/src/rHAT-aligner  --threads 10  /home/wuzhikun/database/genome/GRCh38/rHAT nano_test.fastq.gz   /home/wuzhikun/database/genome/GRCh38/rHAT/Homo_sapiens.GRCh38.dna.primary_assembly_chr1.fa > nano_test.sam
+[INFO] 2019-03-21T19:11:33 [rHAT-aligner] started
+Segmentation fault (core dumped)
+
+```

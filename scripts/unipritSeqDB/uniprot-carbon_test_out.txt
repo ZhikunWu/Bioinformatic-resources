@@ -1,0 +1,9 @@
+sp|Q9ULM6|CNOT6_HUMAN	CCR4-NOT transcription complex subunit 6	Homo sapiens	9606	CNOT6
+sp|Q8K3P5|CNOT6_MOUSE	CCR4-NOT transcription complex subunit 6	Mus musculus	10090	Cnot6
+sp|P9WIS5|KGD_MYCTU	Multifunctional 2-oxoglutarate metabolism enzyme	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	83332	kgd
+sp|Q96LI5|CNO6L_HUMAN	CCR4-NOT transcription complex subunit 6-like	Homo sapiens	9606	CNOT6L
+sp|P0C512|RBL_ORYSJ	Ribulose bisphosphate carboxylase large chain	Oryza sativa subsp. japonica	39947	rbcL
+sp|P00875|RBL_SPIOL	Ribulose bisphosphate carboxylase large chain	Spinacia oleracea	3562	rbcL
+sp|P00876|RBL_TOBAC	Ribulose bisphosphate carboxylase large chain	Nicotiana tabacum	4097	rbcL
+sp|P27065|RBL_SOLLC	Ribulose bisphosphate carboxylase large chain	Solanum lycopersicum	4081	rbcL
+sp|P11383|RBL_WHEAT	Ribulose bisphosphate carboxylase large chain	Triticum aestivum	4565	rbcL

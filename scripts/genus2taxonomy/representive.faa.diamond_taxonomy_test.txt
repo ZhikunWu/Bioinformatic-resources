@@ -1,0 +1,20 @@
+Gene000006	WP_056809841.1	Rhizobacter
+Gene000007	WP_056669402.1	Rhizobacter sp. Root1221
+Gene000010	OYV39303.1	Rhodospirillales bacterium 20-64-7
+Gene000013	PAW89897.1	Pedosphaera sp. Tous-C6FEB
+Gene000016	WP_087474599.1	Nitrospira cf. moscoviensis SBR1015
+Gene000017	CFN73157.1	Bordetella pertussis
+Gene000018	OQW65169.1	Nitrospira sp. ST-bin4
+Gene000019	OQW65170.1	Nitrospira sp. ST-bin4
+Gene000021	PIK50798.1	Apostichopus japonicus
+Gene000022	KIY11964.1	Mastigocladus laminosus UU774
+Gene000026	ESW60275.1	Rhodobacter sp. CACIA14H1
+Gene000028	CDB26637.1	Firmicutes bacterium CAG:552
+Gene000029	WP_087475079.1	Nitrospira cf. moscoviensis SBR1015
+Gene000031	KIY11818.1	Mastigocladus laminosus UU774
+Gene000034	WP_096093806.1	Sphingobacteriaceae bacterium
+Gene000035	WP_014236301.1	Azospira oryzae
+Gene000036	OLC57475.1	Candidatus Rokubacteria bacterium 13_1_40CM_4_67_11
+Gene000039	OQW57439.1	Nitrospira sp. ST-bin4
+Gene000040	OQW57432.1	Nitrospira sp. ST-bin4
+Gene000042	OGA04306.1	Betaproteobacteria bacterium RIFCSPLOWO2_02_64_14

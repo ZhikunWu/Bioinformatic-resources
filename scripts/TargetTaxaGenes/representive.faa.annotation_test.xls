@@ -1,0 +1,100 @@
+Quest	Gene	Annotation	Pathway
+Gene000092	nrfC	protein NrfC	Dissimilatory nitrate reduction
+Gene000096	nosZ	nitrous-oxide reductase	Denitrification
+Gene000111	nosZ	nitrous-oxide reductase	Denitrification
+Gene000120	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000140	gdh_K00261	glutamate dehydrogenase (NAD(P)+)	Organic degradation and synthesis
+Gene000161	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000183	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000203	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000375	gs_K00266	glutamate synthase (NADPH/NADH) small chain	Organic degradation and synthesis
+Gene000384	ureB	urease subunit beta	Organic degradation and synthesis
+Gene000394	narZ	nitrate reductase 2, alpha subunit	Dissimilatory nitrate reduction
+Gene000401	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000433	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000447	nmo	nitronate monooxygenase	Organic degradation and synthesis
+Gene000460	nirA	ferredoxin-nitrite reductase	Assimilatory nitrate reduction
+Gene000474	gdh_K15371	glutamate dehydrogenase	Organic degradation and synthesis
+Gene000486	nasA	assimilatory nitrate reductase catalytic subunit	Assimilatory nitrate reduction
+Gene000555	nosZ	nitrous-oxide reductase	Denitrification
+Gene000617	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000638	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000674	nirA	ferredoxin-nitrite reductase	Assimilatory nitrate reduction
+Gene000675	nmo	nitronate monooxygenase	Organic degradation and synthesis
+Gene000718	gdh_K00262	glutamate dehydrogenase (NADP+)	Organic degradation and synthesis
+Gene000750	nosZ	nitrous-oxide reductase	Denitrification
+Gene000789	nosZ	nitrous-oxide reductase	Denitrification
+Gene000839	nosZ	nitrous-oxide reductase	Denitrification
+Gene000872	nosZ	nitrous-oxide reductase	Denitrification
+Gene000918	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene000955	ureB	urease subunit beta	Organic degradation and synthesis
+Gene001002	nosZ	nitrous-oxide reductase	Denitrification
+Gene001029	nosZ	nitrous-oxide reductase	Denitrification
+Gene001040	nosZ	nitrous-oxide reductase	Denitrification
+Gene001044	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001074	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001160	nosZ	nitrous-oxide reductase	Denitrification
+Gene001196	nosZ	nitrous-oxide reductase	Denitrification
+Gene001208	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001211	nirB	nitrite reductase (NADH) large subunit	Dissimilatory nitrate reduction
+Gene001219	nosZ	nitrous-oxide reductase	Denitrification
+Gene001298	nirS	nitrite reductase (NO-forming)	Denitrification
+Gene001327	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001336	gdh_K15371	glutamate dehydrogenase	Organic degradation and synthesis
+Gene001345	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001379	narZ	nitrate reductase 2, alpha subunit	Dissimilatory nitrate reduction
+Gene001492	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001495	NR	nitrate reductase (NAD(P)H)	Assimilatory nitrate reduction
+Gene001509	asnB	asparagine synthase (glutamine-hydrolysing)	Organic degradation and synthesis
+Gene001604	nmo	nitronate monooxygenase	Organic degradation and synthesis
+Gene001611	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001618	nosZ	nitrous-oxide reductase	Denitrification
+Gene001650	gs_K00266	glutamate synthase (NADPH/NADH) small chain	Organic degradation and synthesis
+Gene001662	nosZ	nitrous-oxide reductase	Denitrification
+Gene001695	nosZ	nitrous-oxide reductase	Denitrification
+Gene001762	nirS	nitrite reductase (NO-forming)	Denitrification
+Gene001768	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001779	nirA	ferredoxin-nitrite reductase	Assimilatory nitrate reduction
+Gene001787	nmo	nitronate monooxygenase	Organic degradation and synthesis
+Gene001803	nirS	nitrite reductase (NO-forming)	Denitrification
+Gene001831	nirA	ferredoxin-nitrite reductase	Assimilatory nitrate reduction
+Gene001846	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene001852	nosZ	nitrous-oxide reductase	Denitrification
+Gene001892	gdh_K00262	glutamate dehydrogenase (NADP+)	Organic degradation and synthesis
+Gene001896	nmo	nitronate monooxygenase	Organic degradation and synthesis
+Gene001945	napC	cytochrome c-type protein NapC	Dissimilatory nitrate reduction
+Gene001977	nirB	nitrite reductase (NADH) large subunit	Dissimilatory nitrate reduction
+Gene001984	nirA	ferredoxin-nitrite reductase	Assimilatory nitrate reduction
+Gene002009	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene002017	gdh_K00261	glutamate dehydrogenase (NAD(P)+)	Organic degradation and synthesis
+Gene002024	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene002032	nirS	nitrite reductase (NO-forming)	Denitrification
+Gene002108	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene002112	nasA	assimilatory nitrate reductase catalytic subunit	Assimilatory nitrate reduction
+Gene002165	nirS	nitrite reductase (NO-forming)	Denitrification
+Gene002166	nifW	nitrogenase-stabilizing/protective protein	Nitrogen fixation
+Gene002168	nosZ	nitrous-oxide reductase	Denitrification
+Gene002201	gdh_K00261	glutamate dehydrogenase (NAD(P)+)	Organic degradation and synthesis
+Gene002335	glsA	glutaminase	Organic degradation and synthesis
+Gene002336	gdh_K00261	glutamate dehydrogenase (NAD(P)+)	Organic degradation and synthesis
+Gene002392	amoB_B	ammonia monooxygenase subunit B (bacteria)	Nitrification
+Gene002393	amoC_B	ammonia monooxygenase subunit C (bacteria)	Nitrification
+Gene002428	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene002454	nosZ	nitrous-oxide reductase	Denitrification
+Gene002461	nosZ	nitrous-oxide reductase	Denitrification
+Gene002491	nasA	assimilatory nitrate reductase catalytic subunit	Assimilatory nitrate reduction
+Gene002531	nmo	nitronate monooxygenase	Organic degradation and synthesis
+Gene002568	gdh_K15371	glutamate dehydrogenase	Organic degradation and synthesis
+Gene002577	nirA	ferredoxin-nitrite reductase	Assimilatory nitrate reduction
+Gene002593	nasA	assimilatory nitrate reductase catalytic subunit	Assimilatory nitrate reduction
+Gene002600	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene002704	nosZ	nitrous-oxide reductase	Denitrification
+Gene002705	nosZ	nitrous-oxide reductase	Denitrification
+Gene002709	nirS	nitrite reductase (NO-forming)	Denitrification
+Gene002754	ureB	urease subunit beta	Organic degradation and synthesis
+Gene002764	nmo	nitronate monooxygenase	Organic degradation and synthesis
+Gene002805	nirK	nitrite reductase (NO-forming)	Denitrification
+Gene002845	nosZ	nitrous-oxide reductase	Denitrification
+Gene002875	nirS	nitrite reductase (NO-forming)	Denitrification
+Gene002887	gs_K00266	glutamate synthase (NADPH/NADH) small chain	Organic degradation and synthesis
+Gene002911	NR	nitrate reductase (NAD(P)H)	Assimilatory nitrate reduction

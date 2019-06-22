@@ -1,0 +1,10 @@
+15	ensembl_havana	exon	57706629	57706955	.	+	.	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "1"; gene_name "POLR2M"; 
+15	ensembl_havana	CDS	57706843	57706955	.	+	0	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "1"; gene_name "POLR2M"; 
+15	ensembl_havana	start_codon	57706843	57706845	.	+	0	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "1"; gene_name "POLR2M"; 
+15	ensembl_havana	exon	57708714	57709358	.	+	.	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "2"; gene_name "POLR2M"; 
+15	ensembl_havana	CDS	57708714	57709358	.	+	1	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "2"; gene_name "POLR2M"; 
+15	ensembl_havana	exon	57711984	57712188	.	+	.	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "3"; gene_name "POLR2M"; 
+15	ensembl_havana	CDS	57711984	57712188	.	+	1	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "3"; gene_name "POLR2M"; 
+15	ensembl_havana	exon	57714536	57717557	.	+	.	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "4"; gene_name "POLR2M"; 
+15	ensembl_havana	CDS	57714536	57714679	.	+	0	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "4"; gene_name "POLR2M"; 
+15	ensembl_havana	stop_codon	57714677	57714679	.	+	0	gene_id "gene:ENSG00000255529"; transcript_id "transcript:ENST00000299638"; exon_number "4"; gene_name "POLR2M"; 

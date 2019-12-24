@@ -11,6 +11,22 @@
 * [DenovolyzeR](http://denovolyzer.org)
 * [TrioDeNovo](http://genome.sph.umich.edu/wiki/Triodenovo)
 
+#### tools detecting de novo SNV/InDel
+* PolyMutt
+* DeNovoGear
+* FamSeq
+* DNMFilter
+* TrioDeNovo
+* Scalpel
+* mirTrios
+* VarScan
+* TrioCaller
+* SeqHBase
+
+
+
+
+
 
 ## Quality control
 * [adapterremoval](https://github.com/MikkelSchubert/adapterremoval): rapid adapter trimming, identification, and read merging
@@ -146,9 +162,16 @@
 * [wub](https://github.com/nanoporetech/wub): Tools and software library developed by the ONT Applications group
 * [monica](https://github.com/bioinformagic/monica): MinION Open Nucleotide Identifier for Continuous Analysis - an open source pathogen identifier for real-time analysis on MinION output
 * [Step by step blasr installation example](https://github.com/PacificBiosciences/blasr/wiki/Step-by-step-blasr-installation-example)
+* [pipeline-polya-ng](https://github.com/nanoporetech/pipeline-polya-ng): Pipeline for calling poly(A) tail lengths from nanopore direct RNA data using nanopolish
+* [denbi-nanopore-training](https://github.com/metagenomics/denbi-nanopore-training)
+
+* [pomoxis](https://github.com/nanoporetech/pomoxis): Analysis components from Oxford Nanopore Research
+
+
 
 
 ### quality control
+* [scrappie](https://github.com/nanoporetech/scrappie): Scrappie is a technology demonstrator for the Oxford Nanopore Research Algorithms group
 * [albacore](https://github.com/Albacore/albacore): a professional quality suite of Rake tasks for building .NET or Mono based systems
 * [Basecalling-comparison](https://github.com/rrwick/Basecalling-comparison): A comparison of different Oxford Nanopore basecallers
 * [fast5_fetcher](https://github.com/Psy-Fer/fast5_fetcher): A tool for fetching nanopore fast5 files after filtering via demultiplexing, alignment, or other, to improve downstream processing efficiency
@@ -178,7 +201,7 @@
 * [nanolyse](https://github.com/wdecoster/nanolyse): Remove lambda phage reads from a fastq file
 * [nanomath](https://github.com/wdecoster/nanomath): A few simple math function for other Oxford Nanopore processing scripts
 
-/nanopack
+
 
 ### Assembly
 * [NovoGraph](https://github.com/NCBI-Hackathons/NovoGraph): building whole genome graphs from long-read-based de novo assemblies
@@ -189,8 +212,17 @@
 * [npGraph](https://github.com/hsnguyen/assembly):  Resolve assembly graph in real-time using nanopore data
 * [Canu](https://github.com/marbl/canu)
 * [shasta](https://github.com/chanzuckerberg/shasta): De novo assembly from Oxford Nanopore reads
+* [RaGOO](https://github.com/malonge/RaGOO): A tool to order and orient genome assembly contigs via Minimap2 alignments to a reference genome
+* [helen](https://github.com/kishwarshafin/helen): H.E.L.E.N. (Homopolymer Encoded Long-read Error-corrector for Nanopore)
 
 
+
+### polish
+* [racon](https://github.com/isovic/racon): Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads
+* [ntEdit](https://github.com/bcgsc/ntedit): scalable genome assembly polishing
+* [nanopolish](https://github.com/jts/nanopolish): Signal-level algorithms for MinION data
+* [Apollo](https://github.com/CMU-SAFARI/Apollo)
+* [Quiver]()
 
 ###  Variants
 * [Longshot](https://github.com/pjedge/longshot): diploid SNV caller for error-prone reads
@@ -214,6 +246,7 @@
 
 * [graphmap](https://github.com/isovic/graphmap): A highly sensitive and accurate mapper for long, error-prone reads
 * [rkmh](https://github.com/edawson/rkmh): Classify sequencing reads using MinHash
+* [minialign](https://github.com/ocxtal/minialign): fast and accurate alignment tool for PacBio and Nanopore long reads
 
 
 ### simulator
@@ -237,6 +270,9 @@
 * [pychopper](https://github.com/nanoporetech/pychopper): A tool to identify full length cDNA reads
 * [LoReAn](https://github.com/lfaino/LoReAn): Long Reads Annotation pipeline
 * [poreplex](https://github.com/hyeshik/poreplex): A versatile sequenced read processor for nanopore direct RNA sequencing
+* [Mandalorion](https://github.com/christopher-vollmers/Mandalorion): Analysis Pipeline to analyze Nanopore RNAseq data
+* [pipeline-polya-ng](https://github.com/nanoporetech/pipeline-polya-ng): Pipeline for calling poly(A) tail lengths from nanopore direct RNA data using nanopolish
+
 
 
 ## Pacbio data
@@ -341,6 +377,8 @@
 
 ## Structural variants
 
+* [Structural Variant Resources](https://github.com/atmaivancevic/structuralVariantResources)
+
 ### SV Caller for third generation sequences
 * [svim](https://github.com/eldariont/svim): Structural Variant Identification Method using Long Reads
 * [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR): Toolset for SV simulation, comparison and filtering
@@ -350,8 +388,10 @@
 * [pbsv](https://github.com/PacificBiosciences/pbsv): PacBio structural variant (SV) calling and analysis tools
 * [Picky](https://github.com/TheJacksonLaboratory/Picky): Structural Variants Pipeline for Long Reads
 * [NanoVar](https://github.com/benoukraflab/NanoVar): Structural variant caller using low-depth Nanopore sequencing
-
-
+* [SV-plaudit](https://github.com/jbelyeu/SV-plaudit): Pipeline for structural variant image curation and analysis.
+* [SVJedi](https://github.com/llecompte/SVJedi): SV genotyping with long reads
+* [cuteSV](https://github.com/tjiangHIT/cuteSV): Long read based human genomic structural variation detection
+* [EnsembleSV](https://github.com/aganezov/EnsembleSV): A workflow for SV inference allosing for multiple sequencing technologies and methods
 
 ### SV with illumina data
 * [svtyper](https://github.com/hall-lab/svtyper): Bayesian genotyper for structural variants
@@ -372,6 +412,7 @@
 * [svtools](https://github.com/hall-lab/svtools): Tools for processing and analyzing structural variants
 * [SnowmanSV](https://github.com/broadinstitute/SnowmanSV): Structural variation and indel detection using rolling local string graph assembly
 * [truvari](https://github.com/spiralgenetics/truvari): Structural variant comparison tool for VCFs
+* [parliament2](https://github.com/dnanexus/parliament2): Runs a combination of tools to generate structural variant calls on whole-genome sequencing data
 
 
 
@@ -406,6 +447,9 @@
 * [svtools](https://github.com/hall-lab/svtools): Tools for processing and analyzing structural variants
 * [samplot](https://github.com/ryanlayer/samplot): Plot structural variant signals from many BAMs and CRAMs
 * [svviz2](https://github.com/nspies/svviz2): visual evaluation of read support for structural variation
+* [FusorSV](https://github.com/timothyjamesbecker/FusorSV): an algorithm for optimally combining data from multiple structural variation detection methods
+* [seeksv](https://github.com/qiukunlong/seeksv): A bioinformatics tool for SV detection and virus integration discovery
+* [SViper](https://github.com/smehringer/SViper): Swipe your Structural Variants called on long (ONT/PacBio) reads with short exact (Illumina) reads.
 
 
 ### SV annotation
@@ -667,7 +711,7 @@ Methylation Analysis
 * [dbNSFP](http://varianttools.sourceforge.net/Annotation/DbNSFP): variant annotation tools
 * [GeneMatcher](https://genematcher.org/)
 * [variant annotion tool](http://varianttools.sourceforge.net/Annotation/Tutorial): Annotating variants using multiple annotation databases
-
+* [Mouse Genome Informatics (MGI)](http://www.informatics.jax.org/)
 
 ## Deal with vcf
 * [cyvcf2](https://github.com/brentp/cyvcf2): fast VCF and BCF processing	
@@ -719,6 +763,11 @@ Methylation Analysis
 * [Trapnell Lab](http://cole-trapnell-lab.github.io/): aim to identify genes that control cellular transitions, primarily using single-cell genomics
 * [H3ABioNet](https://github.com/h3abionet)
 * [Pacific Biosciences](https://github.com/PacificBiosciences)
+* [Hartwig Medical Foundation](https://github.com/hartwigmedical/)
+* [GenomicParisCentre](https://github.com/GenomicParisCentre)
+* [BC Cancer Canada's Michael Smith Genome Sciences Centre](https://github.com/bcgsc)
+* [Global Alliance for Genomics and Health](https://github.com/ga4gh)
+
 
 
 ## Tool resources
@@ -748,6 +797,8 @@ Methylation Analysis
 * [git-tips](https://github.com/521xueweihan/git-tips)
 * [PySnooper](https://github.com/cool-RR/PySnooper): Never use print for debugging again (a poor man debugger)
 * [pandas-cookbook](https://github.com/jvns/pandas-cookbook): Recipes for using Python pandas library
+* [intervaltree](https://pypi.org/project/intervaltree/#files): Editable interval tree data structure for Python 2 and 3
+
 
 
 

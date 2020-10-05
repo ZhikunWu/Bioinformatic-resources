@@ -90,3 +90,22 @@ $ conda update anaconda
 # 更新python
 $ conda update python
 ```
+
+
+### export config file
+```
+$ conda env export > NanoSV.yaml
+````
+
+
+#### create environment based on the config file
+```
+conda env create -f environment.yml
+```
+
+set the installed pathway
+```
+conda env create -f environment.yml -p /home/user/anaconda3/envs/env_name
+```
+
+

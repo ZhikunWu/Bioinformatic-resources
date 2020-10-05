@@ -82,6 +82,14 @@ samtools markdup in.algnsorted.bam out.bam
 ```
 
 
+### Extraction of unaligned reads (and mates) via samtools, per sample
+```
+samtools fastq –f 12 [alignments.bam] -1 [mateUnmapped_R1.fq] -2 [mateUnmapped_R2.fq]
+samtools fastq –f 68 –F 8 [alignments.bam] > [R1_mateMapped.fq]
+samtools fastq –f 132 –F 8 [alignments.bam] > [R2_mateMapped.fq]
+samtools view –f 8 –F 4 [alignments.bam] > [GRCh38Links.bam]
+```
+
 
 
 ### samtools mpileup

@@ -38,3 +38,32 @@ filter(df, str_detect(animal, paste(animalList, collapse="|")))
 ```
 
 
+
+### R, Bioconductor and other R packages
+
+```
+# R - need to add R repo first
+echo "deb https://www.stats.bris.ac.uk/R/bin/linux/ubuntu $(lsb_release -c | xargs | cut -f2 -d' ')/" | sudo tee -a /etc/apt/sources.list
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
+sudo apt-get update && sudo apt upgrade && sudo apt install libcurl4-openssl-dev libxml2-dev libcairo2-dev libxt-dev libssl-dev
+sudo apt install r-base r-base-dev
+
+# install R packages for all users
+sudo R | tee -a /tmp/r.log
+
+# CRAN packages
+install.packages('tidyverse')
+install.packages('data.table')
+
+# devtools ie to install from github
+install.packages('devtools')
+devtools::install_github('gabraham/flashpca/flashpcaR')
+
+# bioconductor
+source("https://bioconductor.org/biocLite.R") 
+biocLite('BiocInstaller');
+biocLite('GenomicRanges'); 
+```
+
+
+

@@ -2,6 +2,105 @@
 
 ## [SomaticSniper](http://gmt.genome.wustl.edu/packages/somatic-sniper/install.html)
 
+
+### SomaticSniper  pipeline
+
+1.Call SomaticSniper from the command line
+```
+bam-somaticsniper –f ref.fa tumor.bam normal.bam
+output.txt
+```
+
+2.Examine the output available in output.txt.
+
+3. Generate a samtools pileup indel file for indel filtering
+```
+samtools pileup –cvi –f ref.fa tumor.bam indel.pileup
+```
+
+4. Filter out low quality indels called by samtools.
+```
+perl samtools/misc/samtools.pl varFilter indel.pileup
+> indel.pileup.filtered
+```
+
+5. Filter SomaticSniper’s predictions by quality and proximity to indels using the provided filtering script.
+```
+perl snpfilter.pl --snp-file output.txt --indel-file
+indel.pileup.filtered --out-file output.SNPfilter.txt
+```
+
+6. Adapt the remaining unfiltered SNVs for use with bam-readcount.
+```
+perl prepare_for_readcount.pl --snp-file
+output.SNPfilter.txt --out-file output.SNPfilter.pos
+```
+
+7. Run bam-readcount using the same mapping quality (-q) setting as used for SomaticSniper.
+```
+bam-readcount -b 15 -f ref.fa –l output.SNPfilter.pos
+tumor.bam > output.SNPfilter.rc
+```
+
+8. Run the false positive filter to eliminate likely incorrect calls.
+```
+perl fpfilter.pl --snp-file output.SNPfilter.txt --
+readcount-file output.SNPfilter.rc
+```
+
+9. Lastly, run the "high confidence" filter which filters based on the somatic score and mapping quality.
+
+```
+perl highconfidence.pl --snp-file
+output.SNPfilter.txt.fp_pass --out-file
+output.SNPfilter.txt.fp_pass.hc
+```
+
+
+
+### SomaticSniper parameters
+```
+$ perl /home/wuzhikun/anaconda3/envs/WGS/bin/somatic-sniper/src/scripts/snpfilter.pl --help
+snpfilter - Basic filtering for SomaticSniper
+
+SYNOPSIS
+snpfilter [options] [file ...]
+
+OPTIONS
+--snp-file              the input bam-somaticsniper output file (requires v1.0.0 or greater output)
+--lq-output             this is an optional place to stick sn(p|v)s which have failed to pass this filter
+--min-mapping-quality   min mapping quality of the reads covering the SNP, default 40 
+--min-cns-qual          minimum consensus quality, default 20
+--min-read-depth        minimum read depth to call a SNP, default 3
+--max-read-depth        maximum read depth to call a SNP, default 100000000
+--snp-win-size          window size for filtering dense SNPs, default 10
+--max-snp-per-win       maximum number of SNPs in a sized window, default 2
+--min-snp-qual          check minimum snp quality if consensus qual is lower than min_cns_qual, default 20
+--out-file              snp output file after filter
+--indel-file            path of samtools *pileup* format indel file to be used as a filter to screen out snps close to indel
+--indel-win-size        window size of indel position in which SNPs should be filtered out, default 10
+--min-indel-score       minimum samtools indel score, default 50
+--tumor-variant-only    whether or not to pass homozygous ref calls in the tumor (off by default)
+--include-loh           whether or not to pass sites likely to be loss of heterozygosity (on by default)
+--help                  this message
+
+DESCRIPTION
+This program will filter bam-somaticsniper output with some basic filters inspired by maq.pl SNPfilter
+
+AUTHORS
+Dave Larson     Extraction from standard TGI framework and modification specifically for bam-somaticsniper
+Feiyu Du        Original code
+
+SUPPORT
+For user support please mail genome-dev@genome.wustl.edu.
+
+```
+
+
+
+
+
+
 ### example
 
 ```

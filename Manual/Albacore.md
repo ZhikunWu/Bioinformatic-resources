@@ -1,5 +1,7 @@
 ## [Albacore](https://github.com/Albacore/albacore)
 
+### [Albacore HowTo](http://www.taejoonlab.org/index.php/Albacore_HowTo)
+### [Nanopore basecalling之Albacore](http://blog.sciencenet.cn/blog-2970729-1124496.html)]
 
 ### install albocore
 

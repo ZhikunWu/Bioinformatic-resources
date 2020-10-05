@@ -1,4 +1,12 @@
-### minimap2 manual
+## minimap2 manual
+
+### minimap2 index 
+
+```
+minimap2 -t 20  -k 15  -d Homo_sapiens.GRCh38.dna.primary_assembly.fa.mmi  Homo_sapiens.GRCh38.dna.primary_assembly.fa
+```
+
+
 
 ```
 $ minimap2 --MD -a -x map-ont -t 20 /home/wuzhikun/database/genome/GRCh38/Homo_sapiens.GRCh38.dna.primary_assembly_chr1.fa /home/husong/SRR_data/AshkenazimTrio/son/nanopore/combined_2018-05-18.fastq.gzip  > minimap_Ashkenazim_son.sam

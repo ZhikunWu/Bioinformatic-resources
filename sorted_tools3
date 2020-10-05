@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+* [100,000 Genomes Project](http://www.genomicsengland.co.uk/the-100000-genomes-project/)
+* [1000 Genomes Project](http://www.1000genomes.org/)
+* [10x Genomics](https://github.com/10XGenomics)
+* Abruijn (https://github.com/fenderglass/ABruijn)
+* [aCNViewer](https://github.com/FJD-CEPH/aCNViewer): Comprehensive genome-wide visualization of absolute copy number and copy neutral variations
+* [adapterremoval](https://github.com/MikkelSchubert/adapterremoval): rapid adapter trimming, identification, and read merging
+* [albacore](https://github.com/dvera/albacore)
+* [Alfred](https://tobiasrausch.com/alfred/): BAM alignment statistics, feature counting and feature annotation
+* [algorithms](https://github.com/keon/algorithms): Minimal examples of data structures and algorithms in Python
+* [allbiotc2](https://github.com/ALLBio/allbiotc2): Benchmark pipeline for Structural Variation analyses, funded by the ALLBio
+* [ariba](https://github.com/sanger-pathogens/ariba): Antimicrobial Resistance Identification By Assembly
+* [arriba](https://github.com/suhrig/arriba): Fast and accurate gene fusion detection from RNA-Seq data
+* [Australian Schizophrenia Research Bank: A Database of Comprehensive Clinical, Endophenotypic and Genetic Data for Aetiological Studies of Schizophrenia](https://journals.sagepub.com/doi/abs/10.3109/00048674.2010.501758?journalCode=anpa)
+* [Awesome 10x Genomics](https://github.com/johandahlberg/awesome-10x-genomics)
+* [awesome-10x-genomics](https://github.com/johandahlberg/awesome-10x-genomics): List of tools and resources related to the 10x Genomics GEMCode/Chromium system
+* [awesome-nlp](https://github.com/keon/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
+BackSPIN: https://github.com/linnarsson-lab/BackSPIN
+* [bamkit](https://github.com/hall-lab/bamkit): Tools for common BAM file manipulations
+* [bam-readcount](https://github.com/genome/bam-readcount): count DNA sequence reads in BAM files
+* bamtools (https://github.com/pezmaster31/bamtools)
+* [Basic Local Alignment Search Tool (BLAST)](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+* [bcalm](https://github.com/GATB/bcalm): de Bruijn graph compaction in low memory
+* [bcbio_validation_workflows](https://github.com/bcbio/bcbio_validation_workflows): A community menagarie of automated variant validations using bcbio and the Common Workflow Language
+* [Beagle](http://faculty.washington.edu/browning/beagle/beagle.html)
+* [bioawk](https://github.com/lh3/bioawk): BWK awk modified for biological data
+* [biobambam2](https://github.com/gt1/biobambam2): Tools for early stage alignment file processing
+* [Blight](https://github.com/Malfoy/Blight): De Bruijn graph representation in low memory
+Bowtie2, http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
+* [bs3](https://github.com/khuang28jhu/bs3): BS-Seeker3: An Ultra-fast, Versatile Pipeline for Mapping Bisulfite-treated Reads
+* [bsseq](https://github.com/hansenlab/bsseq): Devel repository for bsseq
+* bwa (https://github.com/lh3/bwa)
+* [bwa](https://github.com/lh3/bwa): Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment)
+* [bxtools](https://github.com/walaj/bxtools): Tools for analyzing 10X Genomics data
+* [Cancer Cell Line Encyclopedia](https://portals.broadinstitute.org/ccle)
+* Canu (https://github.com/marbl/canu)
+* [capsim](https://github.com/mdcao/capsim): Simulation of capture sequencing
+* [cDNA_Cupcake](https://github.com/magdoll/cdna_cupcake): Miscellaneous collection of Python and R scripts for processing Iso-Seq data
+* [CellBench_data](https://github.com/LuyiTian/CellBench_data): This contains the dataset for comparing scRNA-seq analysis methods
+* [cgpBattenberg](https://github.com/cancerit/cgpBattenberg): Battenberg algorithm and associated implementation script
+* [CharGer](https://github.com/ding-lab/CharGer): Characterization of Germline variants
+China Rice Data Center, http://www.ricedata.cn/gene/
+CIDR: https://github.com/VCCRI/CIDR
+* [Clairvoyante](https://github.com/aquaskyline/Clairvoyante): a multi-task convolutional deep neural network for variant calling in Single Molecule Sequencing
+* [cloudbiolinux](https://github.com/chapmanb/cloudbiolinux): configure virtual (or real) machines with tools for biological analyses
+* [colocalization tests pipeline](https://bitbucket.org/mgloud/production_coloc_pipeline/) 
+* [Compatible Software](https://github.com/PacificBiosciences/DevNet/wiki/Compatible-Software)
+* [Compatible Software](https://github.com/PacificBiosciences/DevNet/wiki/Compatible-Software)
+* [Complete-Striped-Smith-Waterman-Library](https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library): An SIMD Smith-Waterman C/C++/Python/Java Library for Use in Genomic Applications
+-c /opt/albacore/r94_450bps_linear.cfg \
+* [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
+* [CRISPResso2](https://github.com/pinellolab/CRISPResso2): Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments
+* [cyvcf2](https://github.com/brentp/cyvcf2): fast VCF and BCF processing	
+* [CyVCF document](http://pyvcf.readthedocs.io/en/latest/)
+* [CyVCF](https://github.com/arq5x/cyvcf): A fast Python library for VCF files leveraging Cython for speed.
+* [Data for coronary artery smooth muscle cells](https://stanford.app.box.com/s/e6e8hyft5u7wix1nzg5mjfqa084c4tin)
+* [Data for retinal pigment epithelium cells](https://stanford.box.com/s/asrxy0o66xxe1j7mfj56p3z3d405gijj)
+* [Data Processing Pipelines](https://www.encodeproject.org/pipelines/)
+* [DataVisualization](https://gist.github.com/KestindotC/7f8caa8be6b33cbe06dbdc5b98d10d6a): Data Visualization in Bioinformatics
+* [DBG2OLC](https://github.com/yechengxi/DBG2OLC)
+* [dbvar by study](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/by_study/vcf/)
+* [dbvar download](https://ftp.ncbi.nlm.nih.gov/pub/dbVar/data/Homo_sapiens/by_assembly/GRCh38/vcf/)
+* [dbvar](https://github.com/ncbi/dbvar)
+* [dbvar](https://www.ncbi.nlm.nih.gov/dbvar/content/human_hub/): Human Structural Variant Data Hub
+* [DECIPHER](https://decipher.sanger.ac.uk/)
+* [DECIPHER](https://decipher.sanger.ac.uk)
+* [DECIPHER Syndrome Overview](https://decipher.sanger.ac.uk/disorders#syndromes/overview)
+* [denovo-db](http://denovo-db.gs.washington.edu/)
+* [denovodb v.1.5 documentation](http://denovo-db.gs.washington.edu/denovo-db.v.1.5.pdf)
+* [DenovolyzeR](http://denovolyzer.org)
+* [dockerfiles](https://github.com/jessfraz/dockerfiles): Various Dockerfiles I use on the desktop and on servers
+* [docker](https://github.com/chef-cookbooks/docker): Chef Cookbook for Docker
+* [Eagle](http://www.hsph.harvard.edu/alkes-price/software/)
+* [ea-utils fastqMCF program](https://expressionanalysis.github.io/ea-utils/)
+EMBOSS, http://emboss.sourceforge.net
+* [EnrichedHeatmap](https://github.com/jokergoo/EnrichedHeatmap): make enriched heatmap which visualizes the enrichment of genomic signals to specific target regions
+* [European Genome-phenome Archive](https://www.ebi.ac.uk/ega/home)
+* [ExAC03](http://exac.broadinstitute.org)
+* [ExpansionHunter](https://github.com/Illumina/ExpansionHunter): A tool for estimating repeat sizes
+* [eXpert Model](https://github.com/mdcao/xm): The expert model compression model
+* Falcon-integrate (https://github.com/PacificBiosciences/FALCON-integrate)
+* [fast5seek](https://github.com/mbhall88/fast5seek): Subset of fast5 files contained in a fastq, BAM, or SAM file
+* [fastahack](https://github.com/ekg/fastahack/): utilities for indexing and sequence extraction from FASTA files
+* [fastahack-python](https://github.com/brentp/fastahack-python): cython wrapper to fastahack
+* [Fast GWAS download script](https://github.com/mikegloudemans/gwas-download)
+Fermi package, https://github.com/lh3/fermi
+* [Filtlong](https://github.com/rrwick/Filtlong): quality filtering tool for long reads
+* [flair](https://github.com/BrooksLabUCSC/flair): Full-Length Alternative Isoform analysis of RNA
+* [flair](https://github.com/BrooksLabUCSC/flair): Full-Length Alternative Isoform analysis of RNA
+* [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+* [FSAmisc](https://github.com/droglenc/FSAmisc): In progress or miscellaneous functions eventually destined for the FSA package
+* [FuSeq](https://github.com/nghiavtr/FuSeq): A fast detection of fusion genes from paired-end RNA-seq data
+* [fusioncatcher](https://github.com/ndaniel/fusioncatcher): Finder of Somatic Fusion Genes in RNA-seq data
+* [FxTools](https://github.com/BGI-shenzhen/FxTools): a comprehensive toolkit for FASTA and FASTQ file manipulation
+GapCloser, http://soap.genomics.org.cn/about.html
+* [gatk](https://github.com/broadinstitute/gatk): Official code repository for GATK versions 4 and up 
+* [GATK](https://www.broadinstitute.org/gatk/)
+* [GEMINI document](http://gemini.readthedocs.io/en/latest/)
+* [GEMINI](https://github.com/arq5x/gemini): integrative exploration of genetic variation and genome annotations
+* [Gene2MeSH](http://ws.ncibi.org/g2m.html)
+* [GeneCards](https://www.genecards.org/)
+* [GeneFuse](https://github.com/OpenGene/GeneFuse): Gene fusion detection and visualization
+* general websites
+* [GenomeDK high-performance-computing cluster in Denmark](https://genome.au.dk/)
+* [genome-in-a-bottle](https://github.com/genome-in-a-bottle): A public-private-academic consortium hosted by NIST to develop reference materials and standards for clinical sequencing
+* [genomescope](https://github.com/schatzlab/genomescope): https://github.com/schatzlab/genomescope
+* [GenomicConsensus](https://github.com/PacificBiosciences/GenomicConsensus): PacBio® variant and consensus caller
+* [Genomic Regions Enrichment of Annotations Tool](http://great.stanford.edu/public/html/splash.php)
+* [gffread](https://github.com/gpertea/gffread): GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more
+* [/giab/ftp/data/NA12878](https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/)
+* [giggle](https://github.com/ryanlayer/giggle): Interval data structure
+GiniClust: https://github.com/lanjiangboston/GiniClust
+* [git-history](https://github.com/pomber/git-history)
+* [Github code for SV identification](https://github.com/dixonlab/hic_breakfinder)
+* [Gmove](https://github.com/institut-de-genomique/gmove): a gene prediction tool 
+* [goleft](https://github.com/brentp/goleft): goleft is a collection of bioinformatics tools distributed under MIT license in a single static binary
+* [GOrilla](http://cbl-gorilla.cs.technion.ac.il/)
+* [gqt](https://github.com/ryanlayer/gqt): A genotype query interface.
+* [grabix](https://github.com/arq5x/grabix): a wee tool for random access into BGZF files.
+* [gramtools](https://github.com/iqbal-lab-org/gramtools): Genome inference from a population reference graph
+* [Graphtyper](https://github.com/DecodeGenetics/graphtyper)
+* [GTEx eQTL data](https://gtexportal.org/home/datasets)
+* [GTEx portal](https://gtexportal.org/home/)
+* [gui_poretools](https://github.com/andrewwhwang/gui_poretools)
+* [H3ABioNet](https://github.com/h3abionet)
+* [h3agwas](https://github.com/h3abionet/h3agwas): GWAS Pipeline for H3Africa
+* [HaMMLET](https://github.com/wiedenhoeft/HaMMLET): Fast Bayesian Hidden Markov Model with Wavelet Compression
+* [hapfuse](http://bitbucket.org/wkretzsch/hapfuse/src)
+* [HAPI-UR](http://code.google.com/p/hapi-ur/)
+* [hic_breakfinder](https://github.com/dixonlab/hic_breakfinder)
+* [higlass](https://github.com/hms-dbmi/higlass): Fast contact matrix visualization for the web
+* [HipSTR](https://github.com/tfwillems/HipSTR): Genotype and phase short tandem repeats using Illumina whole-genome sequencing data
+* [HipSTR](https://github.com/tfwillems/HipSTR): Genotype and phase short tandem repeats using Illumina whole-genome sequencing data
+* [hmftools](https://github.com/hartwigmedical/hmftools): arious utility tools for working with genomics data
+* [hmftools](https://github.com/hartwigmedical/hmftools): Various utility tools for working with genomics data
+* [hmftools](https://github.com/hartwigmedical/hmftools): Various utility tools for working with genomics data
+* [htslib](https://github.com/samtools/htslib): C library for high-throughput sequencing data formats
+* [hts-python](https://github.com/quinlan-lab/hts-python): pythonic wrapper for htslib
+* [humann2](https://bitbucket.org/biobakery/humann2/wiki/Home)
+* [ID Gene Database Project](http://gfuncpathdb.ucdenver.edu/iddrc/iddrc/home.php)
+* [IGSR: The International Genome Sample Resource](http://www.internationalgenome.org/data#download)
+* [importGDC](https://github.com/ding-lab/importGDC): Command line client for Genomic Data Commons data downloads
+* [International Paediatric and Congenital Cardiac Codes](http://www.ipccc.net/)
+InterProScan, http://www.ebi.ac.uk/interpro/download.html
+* [InterVar](https://github.com/WGLab/InterVar): A bioinformatics software tool for clinical interpretation of genetic variants by the 2015 ACMG-AMP guideline
+* [IPD-IMGT/HLA](http://www.ebi.ac.uk/ipd/imgt/hla/): https://github.com/ANHIG/IMGTHLA
+* [iPSYCH download site](http://ipsych.au.dk/downloads/)
+* [iPSYCH project](http://ipsych.au.dk/)
+* [Ira Hall lab](https://github.com/hall-lab)
+-i reads \
+IRGSP build 4, http://rapdb.dna.affrc.go.jp/download/build4.html
+* [JAFFA](https://github.com/Oshlack/JAFFA)
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+* [Jvarkit](https://lindenb.github.io/jvarkit/): Java utilities for Bioinformatics
+* [lihang-code](https://github.com/fengdu78/lihang-code): 《统计学习方法》的代码实现
+* [LISA cluster at SURFsara](https://userinfo.surfsara.nl/systems/lisa/)
+* [Lisa Genetic Cluster Computer](http://geneticcluster.org/)
+* [LocusCompare](http://locuscompare.com): https://github.com/boxiangliu/locuscompare.
+* [LocusCompareR](https://github.com/boxiangliu/locuscomparer)
+* [lordfast](https://github.com/vpc-ccg/lordfast): Sensitive and Fast Alignment Search Tool for Long Read sequencing Data
+* [LRRC14B](https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRRC14B)
+* [maf2sam](https://github.com/peterjc/maf2sam): Convert MIRA Assembly Format (MAF) to Sequence Alignment/Map (SAM) format
+* [maf2synteny](https://github.com/fenderglass/maf2synteny): A tool for recovering synteny blocks from multiple alignment
+* [maftools](https://github.com/PoisonAlien/maftools): Summarize, Analyze and Visualize MAF files from TCGA or in house studies
+* [manta](https://github.com/Illumina/manta)
+* [md2googleslides](https://github.com/gsuitedevs/md2googleslides): Generate Google Slides from markdown
+MEGA5, http://www.megasoftware.net/index.php
+* [MetaSVM/ANNOVAR](http://annovar.openbioinformatics.org)
+* [MET-breast-landscapes](https://github.com/cclab-brca/MET-breast-landscapes)
+* [Michigan Imputation Server](http://imputationserver.sph.umich.edu/)
+* MiniAsm and MiniMap (https://github.com/lh3/miniasm,https://github.com/lh3/minimap/)
+* [minion_qc](https://github.com/roblanf/minion_qc): Quality control for MinION sequencing data
+* [MiOncoCirc](https://mioncocirc.github.io): A compendium of circular RNAs compiled from cancer clinical samples at The University of Michigan
+* [monocle2-rge-paper](https://github.com/cole-trapnell-lab/monocle2-rge-paper): Scripts needed to generate the figures for the Monocle 2 paper
+* [Monocle](https://cole-trapnell-lab.github.io/monocle-release/docs/)
+* [mosdepth](https://github.com/arq5x/mosdepth): fast BAM/CRAM depth calculation for WGS, exome, or targetted sequencing.
+mpath: https://github.com/JinmiaoChenLab/Mpath
+* [mrsFAST-ultra](https://sfu-compbio.github.io/mrsfast/): map short reads to reference genome assemblies in a fast and memory-efficient manner
+* [Multiple geom_rect over a time series](https://stackoverflow.com/questions/32021398/multiple-geom-rect-over-a-time-series)
+* [MultiQC](https://github.com/ewels/MultiQC): Aggregate results from bioinformatics analyses across many samples into a single report
+MUMmer, http://mummer.sourceforge.net/; ClustalW, http://www.clustal.org/
+* [MuSiC2](https://github.com/ding-lab/MuSiC2): identifying mutational significance in cancer genomes
+* [MuSiC2](https://github.com/ding-lab/MuSiC2): identifying mutational significance in cancer genomes
+* [NCBI-Hackathons](https://github.com/NCBI-Hackathons)
+* [ncbitax2lin](https://github.com/zyxue/ncbitax2lin): Convert NCBI taxonomy dump into lineages
+* [NGmerge](https://github.com/jsh58/NGmerge): Merging paired-end reads and removing adapters
+* [NGTAS_pipeline](https://github.com/cclab-brca/NGTAS_pipeline): Computational pipeline to analyse Next Generation Targeted Amplicon Sequence data
+* [NHLBI ESP](http://evs.gs.washington.edu/EVS/)
+* [NIMH Repository](https://www.nimhgenetics.org/available_data/autism/)
+* [Nonredundant_Structural_Variants](https://github.com/ncbi/dbvar/tree/master/Structural_Variant_Sets/Nonredundant_Structural_Variants)
+* [npAnalysis](https://github.com/mdcao/npAnalysis): Realtime identification of bacterial sample
+* npScarf(https://github.com/mdcao/npScarf).
+* [Online Mendelian Inheritance in Man (OMIM)](https://www.omim.org)
+* Other projects based on Japsa
+* [Pacific Biosciences](https://github.com/PacificBiosciences)
+* [pathogen-informatics-training](https://github.com/sanger-pathogens/pathogen-informatics-training)
+* [pbalign](https://github.com/PacificBiosciences/pbalign): pbalign maps PacBio reads to reference sequences and saves alignments to a BAM file
+* [PBJelly2利用Pacbio数据进行scaffolding](http://www.chenlianfu.com/?p=2270)
+* [PBJelly](https://github.com/alvaralmstedt/Tutorials/wiki/Gap-closing-with-PBJelly): Gap-closing-with-PBJelly
+* [pbmm2](https://github.com/PacificBiosciences/pbmm2): A minimap2 frontend for PacBio native data formats 
+* pcaReduce: https://github.com/JustinaZ/pcaReduce
+* [pgap](https://github.com/ncbi/pgap): NCBI Prokaryotic Genome Annotation Pipeline
+* [PGC download site](https://www.med.unc.edu/pgc/results-and-downloads/)
+* [PhageXpress](https://github.com/mdcao/phagexpress)
+* PhenoGraph: https://github.com/jacoblevine/PhenoGraph
+* [PhylDiag](https://github.com/DyogenIBENS/PhylDiag): From the comparison of two extant genomes and corresponding gene families, PhylDiag detects conserved segments, i.e. segments of chromosomes unbroken during evolution
+* PHYLIP, http://evolution.genetics.washington.edu/phylip.html
+* [Pipeliner](https://github.com/CCBR/Pipeliner)
+* [Pisces](https://github.com/Illumina/Pisces): Somatic and germline variant caller for amplicon data. Recommended caller for tumor-only workflows
+* [plink 1.9](http://www.cog-genomics.org/plink/1.9/)
+* [PLINK2]h(ttp://www.cog-genomics.org/plink2)
+* [professional-programming](https://github.com/charlax/professional-programming): A collection of full-stack resources for programmers
+* [pufferfish](https://github.com/COMBINE-lab/pufferfish)
+* [pyfasta](https://github.com/brentp/pyfasta)
+RaceID2: https://github.com/dgrun/StemID
+RaceID3: https://github.com/dgrun/RaceID3_StemID2
+RaceID: https://github.com/dgrun/RaceID
+* Racon (https://github.com/isovic/racon)
+RAP-DB on IRGSP-1.0, http://rapdb.dna.affrc.go.jp/download/irgsp1.html
+RAP-DB on IRGSP4, http://rapdb.dna.affrc.go.jp/download/build4.html
+* [raxml-ng](https://github.com/amkozlov/raxml-ng): RAxML Next Generation: faster, easier-to-use and more flexible
+--recursive \
+* [repbase](https://www.girinst.org/downloads/)
+RepeatMasker, http://www.repeatmasker.org/
+REPLACE, ftp://ftp.sanger.ac.uk/pub/users/zn1/merge/replace/
+* [Replication Domain](https://www2.replicationdomain.com/index.php)
+* [restez](https://github.com/ropensci/restez): Create and Query a Local Copy of GenBank in R
+RGAP 7, http://rice.plantbiology.msu.edu/pub/data/Eukaryotic_Pro
+* [rkmh](https://github.com/edawson/rkmh): Classify sequencing reads using MinHash.
+* [Roary](https://github.com/sanger-pathogens/Roary): Rapid large-scale prokaryote pan genome analysis 
+* [R package ‘propagate’]( https://CRAN.R-project.org/package=propagate)
+* [rtg-tools](https://github.com/RealTimeGenomics/rtg-tools): Utilities for accurate VCF comparison and manipulation
+* [RTutor](https://github.com/skranz/RTutor): Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio)
+* [samblaster](https://github.com/GregoryFaust/samblaster):  a tool to mark duplicates and extract discordant and split reads from sam files
+* [samblaster](https://github.com/GregoryFaust/samblaster): a tool to mark duplicates and extract discordant and split reads from sam files
+SAMtools, http://samtools.sourceforge.net/
+* samtools (https://github.com/samtools/samtools)
+* [Sanger Imputation Service](http://imputation.sanger.ac.uk/)
+* [sanger-pathogens](https://github.com/sanger-pathogens/sanger-pathogens.github.io)
+* [SARTools](https://github.com/PF2-pasteur-fr/SARTools): Statistical Analysis of RNA-Seq Tools
+SC3: http://bioconductor.org/packages/release/bioc/html/SC3.html
+scanpy: https://github.com/theislab/scanpy
+* [Science For Life Laboratory](https://github.com/SciLifeLab)
+* [scMerge](https://github.com/SydneyBioX/scMerge):Statistical technique for removing unwanted variation from multiple scRNA-seq datasets
+* [scRNA-seq-workshop-Fall-2018](https://github.com/harvardinformatics/scRNA-seq-workshop-Fall-2018)
+* [seqan](https://github.com/seqan/seqan)
+* [SeqArray](https://github.com/zhengxwen/SeqArray): Big Data Management of Whole-Genome Sequence Variant Calls
+* [SeqArray](https://github.com/zhengxwen/SeqArray): Big Data Management of Whole-Genome Sequence Variant Calls (Development Version)
+* [SeqLib](https://github.com/walaj/SeqLib): C++ htslib/bwa-mem/fermi interface for interrogating sequence data
+Seurat (latest): https://satijalab.org/seurat/
+* [SFARI Gene](https://gene.sfari.org/)
+SIMLR: https://bioconductor.org/packages/release/bioc/html/SIMLR.html
+SINCERA: https://github.com/xu-lab/SINCERA
+SMALT, http://www.sanger.ac.uk/science/tools/smalt-0
+* [smithwaterman](https://github.com/ekg/smithwaterman): smith-waterman-gotoh alignment algorithm
+* [Snakemake-Workflows](https://github.com/snakemake-workflows)
+SNN-Cliq: http://bioinfo.uncc.edu/SNNCliq/
+* [SNPweights](http://www.hsph.harvard.edu/alkes-price/software/)
+* [SoupX](https://github.com/constantAmateur/SoupX): R package to quantify and remove cell free mRNAs from droplet based scRNA-seq data
+-s output \
+* SPAdes (http://bioinf.spbau.ru/spades)
+* [sparsepp](https://github.com/greg7mdp/sparsepp): A fast, memory efficient hash map for C++
+* [SpeedSeq framework](https://github.com/hall-lab/speedseq)
+* [SpeedSeq](https://github.com/hall-lab/speedseq): A flexible framework for rapid genome analysis and interpretation
+* [spVCF](https://github.com/mlin/spVCF): Sparse Project VCF: evolution of VCF to encode population genotype matrices efficiently
+* [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion): STAR-Fusion codebase
+* [STAR-Fusion-Tutorial](https://github.com/STAR-Fusion/STAR-Fusion-Tutorial): Tutorial for STAR-Fusion, FusionInspector, and de novo reconstruction of fusion transcripts using Trinity
+* [St.Jude Cloud](https://pecan.stjude.cloud/#/home)
+# Structural variants
+##[superFreq](https://github.com/ChristofferFlensburg/superFreq): Analysis pipeline for cancer exomes
+* [Swift-T-Variant-Calling](https://github.com/ncsa/Swift-T-Variant-Calling): use in the analysis of Whole Genome and Whole Exome Sequencing studies
+* [swne](https://github.com/yanwu2014/swne): Similarity Weighted Nonnegative Embedding (SWNE), a method for visualizing high dimensional datasets
+* [szdb](http://www.szdb.org/): a database for schizophrenia genetic research
+* [SZGR](https://bioinfo.uth.edu/SZGR/)
+* [TADbit](https://github.com/3DGenomes/TADbit)
+* [tcR](https://github.com/cran/tcR): Advanced Data Analysis of Immune Receptor Repertoires
+* [TE database](https://www.genome.arizona.edu/cgi-bin/rite/index.cgi)
+* [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
+# tenX
+* [TEPID](https://github.com/ListerLab/TEPID): Transposable element polymorphism identification
+* [tetoolkit](https://github.com/mhammell-laboratory/tetoolkit): A package for including transposable elements in differential enrichment analysis of sequencing datasets.
+* [The Bioinformatics Repository](https://github.com/bioinform)
+* [The phase 3 structural variant dataset download](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/integrated_sv_map/)
+* [The phase 3 structural variant dataset source ](http://www.internationalgenome.org/phase-3-structural-variant-dataset/)
+* [TitanCNA](https://github.com/gavinha/TitanCNA): Analysis of subclonal copy number alterations (CNA) and loss of heterozygosity (LOH) in cancer
+-t $(nproc) \
+* [Trim Galore](https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/): A wrapper tool around Cutadapt and FastQC to consistently apply quality and adapter trimming to FastQ files, with some extra functionality for MspI-digested RRBS-type (Reduced Representation Bisufite-Seq) libraries.
+* [trio binning](https://obj.umiacs.umd.edu/marbl_publications/triobinning/index.html)
+* [TrioDeNovo](http://genome.sph.umich.edu/wiki/Triodenovo)
+TSCAN: https://bioconductor.org/packages/release/bioc/html/TSCAN.html
+* [UK10K project](http://www.uk10k.org/)
+* [UK Biobank genotyping and quality control documentation](http://www.ukbiobank.ac.uk/wp-content/uploads/2014/04/UKBiobank_genotyping_QC_documentation-web.pdf)
+* [UK Biobank](http://www.ukbiobank.ac.uk/)
+* [umis](https://github.com/vals/umis): Tools for processing UMI RNA-tag data
+#!/usr/bin/env python
+* [VarDict](https://github.com/AstraZeneca-NGS/VarDict)
+* [VariantBam](https://github.com/walaj/VariantBam): Filtering and profiling of next-generational sequencing data using region-specific rules
+* [Variant Normalization](https://genome.sph.umich.edu/wiki/Variant_Normalization)
+* [vcf2phylip](https://github.com/edgardomortiz/vcf2phylip): Convert SNPs in VCF format to PHYLIP, NEXUS, binary NEXUS, or FASTA alignments for phylogenetic analysis
+* [vcflib](https://github.com/vcflib/vcflib): a simple C++ library for parsing and manipulating VCF files, + many command-line utilities
+* [VEP: Variant Effect Predictor](https://asia.ensembl.org/info/docs/tools/vep/index.html)
+vera/albacore \
+* [vg](https://github.com/vgteam/vg)
+* [vg](https://github.com/vgteam/vg#vg): tools for working with genome variation graphs
+* [viralzone](https://viralzone.expasy.org)
+* [virus pathogen resource](https://www.viprbrc.org/brc/home.spg?decorator=vipr)
+# websites
+* [Week2 单细胞入门-听一篇Cell报告](https://vip.biotrainee.com/d/339-week2-cell)
+* [xCell](https://github.com/dviraran/xCell): Cell types enrichment analysis
+##* [XMas](https://github.com/mdcao/XMas): Phylogenetic distance method using information theory
+* [xvfbwrapper](https://github.com/cgoldberg/xvfbwrapper): Manage headless displays with Xvfb (X virtual framebuffer)
+* [单细胞转录组3大R包之monocle2](https://cloud.tencent.com/developer/article/1055888)
